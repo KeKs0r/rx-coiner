@@ -1,0 +1,21 @@
+{
+  "name": "coiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Marc Höffl <marc.hoeffl@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.4.84",
+    "lodash": "^4.17.4",
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "marble-test": "^2.3.0",
+    "mocha": "^3.5.0",
+    "unexpected": "^10.33.2"
+  }
+}
